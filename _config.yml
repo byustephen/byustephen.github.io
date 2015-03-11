@@ -1,5 +1,5 @@
 url: http://byustephen.github.io/
-baseurl: /goodtomeetyou/
+baseurl: /home/
 
 # Site settings
 title: Mountain Fresh Media
@@ -8,8 +8,9 @@ description: "Communication, Hard Work, and Results. Now that's refreshing."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 709AD1
-  secondary: fec503  
+#709AD0
+  primary: 709AD0
+  secondary: 386EB4
   secondary-dark: 333
 
 
